@@ -1,4 +1,4 @@
-package Coursework.TodoList;
+package TodoList;
 
 public class Controller {
     // Declaring the model and the view

@@ -1,4 +1,4 @@
-package Coursework.TodoList;
+package TodoList;
 
 public class Task {
     // name - name of task

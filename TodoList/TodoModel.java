@@ -1,4 +1,4 @@
-package Coursework.TodoList;
+package TodoList;
 
 import java.util.ArrayList;
 

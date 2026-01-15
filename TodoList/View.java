@@ -1,4 +1,4 @@
-package Coursework.TodoList;
+package TodoList;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
