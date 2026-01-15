@@ -1,4 +1,4 @@
-package Coursework.Library;
+package Library;
 
 public class Book {
     private String bookName;

@@ -1,4 +1,4 @@
-package Coursework.Library;
+package Library;
 
 import java.util.ArrayList;
 

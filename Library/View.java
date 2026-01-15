@@ -1,4 +1,4 @@
-package Coursework.Library;
+package Library;
 
 import javax.swing.JButton;
 import javax.swing.JCheckBox;
